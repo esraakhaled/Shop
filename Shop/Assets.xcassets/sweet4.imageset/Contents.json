@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "christmas-is-about-gingerbread-cookies.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "christmas-is-about-gingerbread-cookies@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "christmas-is-about-gingerbread-cookies@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
